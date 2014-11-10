@@ -1,0 +1,17 @@
+//
+//  DTime.pch
+//  DTime
+//
+//  Created by Christina on 19.10.14.
+//  Copyright (c) 2014 Christina. All rights reserved.
+//
+
+#ifndef DTime_DTime_pch
+#define DTime_DTime_pch
+
+#import <CoreData/CoreData.h>
+#import "AppDelegate.h"
+
+#import "Task.h"
+
+#endif
